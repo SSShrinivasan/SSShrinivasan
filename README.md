@@ -89,14 +89,8 @@ Bachelor of Technology — Information Technology
 - Combines RSI, MACD & sentiment (VADER)  
 - Real-time market data processing  
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=SSShrinivasan&show_icons=true&theme=tokyonight" />
-  <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=SSShrinivasan&theme=tokyonight" />
-</p>
 
 ---
 
