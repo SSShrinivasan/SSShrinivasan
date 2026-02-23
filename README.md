@@ -94,12 +94,4 @@ Bachelor of Technology — Information Technology
 
 ---
 
-## 🔗 Connect With Me
-<p>
-  <a href="https://github.com/SSShrinivasan">
-    <img src="https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge" />
-  </a>
-  <a href="https://linkedin.com/in/shrinivasan-s-s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" />
-  </a>
-</p>
+
