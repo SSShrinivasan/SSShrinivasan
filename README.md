@@ -1,97 +1,150 @@
-<h1 align="center">Shrinivasan S S</h1>
-<h3 align="center">DL • Cloud • Cyber Security • QA & Testing Enthusiast</h3>
+# Hi, I'm Shrinivasan S S 👋
+
+I'm a Full Stack Developer from Chennai, India, passionate about building scalable web applications, backend services, and cloud-based solutions.
+
+I enjoy solving real-world problems through software and continuously improving my development skills by building projects and learning modern technologies.
+
+- 🎓 B.Tech Information Technology (2022–2026)
+- 📍 Chennai, India
+- 💼 Open to Full-Time, Internship & Freelance Opportunities
+- 📫 Email: shrinivasan564@gmail.com
+
+---
+
+## About Me
+
+- Backend-focused Full Stack Developer
+- Experience building REST APIs and database-driven applications
+- Interested in Cloud Computing and AI-powered applications
+- Comfortable working with JavaScript, TypeScript, Python, SQL and Java
+- Always learning by building projects
+
+---
+
+## Tech Stack
+
+### Languages
+
+- JavaScript
+- Python
+- SQL
+- HTML5
+- CSS3
+
+### Frontend
+
+- React
+- Vite
+- Bootstrap
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- Socket.IO
+
+### Databases
+
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### Cloud & Tools
+
+- AWS (EC2, S3, RDS)
+- Git
+- GitHub
+- Postman
+---
+
+# Featured Projects
+
+## 🚚 PickDrop Logistics Platform
+
+A logistics platform inspired by Uber and Lalamove.
+
+### Features
+
+- User authentication
+- Driver management
+- Booking workflow
+- Live driver tracking
+- REST APIs
+- Maps integration
+- Order management
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB • Socket.IO
+
+**Repository:** Private Client Project
+
+This project is protected by a Non-Disclosure Agreement and cannot be made public.
+
+If you're interested in similar work or would like more details about my experience, please contact me.
+
+---
+
+
+
+# Experience
+
+## AWS Cloud Intern
+**TechForce Pvt Ltd**
+
+Worked on deploying cloud infrastructure using AWS services.
+
+Technologies used:
+
+- EC2
+- S3
+- RDS
+- VPC
+- Elastic Load Balancer
+
+---
+
+
+
+# What I'm Learning
+
+- System Design
+- Docker
+- Kubernetes
+- CI/CD
+- AWS Architecture
+- Scalable Backend Development
+
+---
+
+# GitHub Stats
 
 <p align="center">
-  <a href="mailto:shrinivasan646@gmail.com">📧 Email</a> •
-  <a href="https://github.com/SSShrinivasan">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/shrinivasan-s-s">🔗 LinkedIn</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SSShrinivasan&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSShrinivasan&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🧑‍💼 Profile
-Detail-oriented IT student with experience in manual testing, cloud fundamentals, and AI-driven software development.  
-Skilled in Python, Linux, automation, data handling, and quality assurance.  
-Actively seeking **Cloud**, **QA**, **Testing**, or **Intern roles** in software development.
+# GitHub Activity
 
----
-
-## 🚀 Tech Stack
-
-### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-red?logo=java&logoColor=white&style=for-the-badge" />
-</p>
-
-### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-</p>
-
-### **Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SSShrinivasan&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🏢 Experience
+# Connect With Me
 
-### **AWS Intern — TechForce Pvt Ltd**  
-**Jan 2025 – Feb 2025** | Chennai  
-- Built a secure AWS e-commerce platform using EC2, S3, RDS, ELB, VPC, Route 53  
-- Hands-on with deployment, networking, and system architecture documentation  
-
-### **Full-Stack Developer Intern — Chennai Metro Rail Ltd**  
-**Sep 2023 – Oct 2023** | Chennai  
-- Created an attendance system using HTML, CSS, JS, MySQL  
-- Designed CRUD operations, role-based access, authentication  
-- Built responsive UI and optimized back-end  
+- 📧 Email: shrinivasan564@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/shrinivasan-s-s
+- 🌐 Portfolio: https://shrinivasan-dev-portfolio.onrender.com
 
 ---
 
-## 🎓 Education  
-**Prince Shri Venkateswara Padmavathy Engineering College**  
-Bachelor of Technology — Information Technology  
-📅 2022–2026 | Chennai  
+Thanks for visiting my profile!
 
----
-
-## 🧪 Skills (QA & Testing)
-- Manual Testing  
-- Test Case Design  
-- Test Execution  
-- Defect Tracking  
-- Selenium  
-- Jira  
-- Linux  
-- MySQL  
-
----
-
-## 📜 Certifications
-- Mastering Linux — OCSALY  
-- Bash Scripting & Automation — Cyber Twinkle  
-- Self-Learned RAG Engineering (2025)  
-
----
-
-## 📚 Projects
-
-### **📈 StockSentX — Stock Signal Prediction Tool**
-- Predicts stock buy/sell signals using XGBoost  
-- Combines RSI, MACD & sentiment (VADER)  
-- Real-time market data processing  
-
-
-
-
----
-
-
+I'm always interested in collaborating on meaningful projects and learning from other developers.
